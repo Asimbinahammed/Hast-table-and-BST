@@ -27,6 +27,9 @@ public class BSTmain {
 		System.out.println("Data in the format of ascending order");
 		obj.inorder();
 		
+		//uc3 searching method calling
+		obj.search(40);
+		
 	}
 
 }
